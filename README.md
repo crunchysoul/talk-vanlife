@@ -1,3 +1,6 @@
+# Slide url:
+[https://crunchysoul.github.io/talk-vanlife](https://crunchysoul.github.io/talk-vanlife)
+
 # Last update: This is unformated script for the talk, need to format and update
 
 # Slide for my ProVan life talk
